@@ -1,5 +1,5 @@
 ## About me
-Hey! I am Mohamed Messaoud Louamri. I am a Ph.D student working on nonlinear phenomena in plasmas at [USTHB](https://www.usthb.dz/en). I am, also, a member of [CQTech](https://cqtech.org) in which we (try) develop quantum softwares. 
+Hey! I am Mohamed Messaoud Louamri. I am a Ph.D student working on nonlinear phenomena in plasmas at [USTHB](https://www.usthb.dz/en). I am, also, a member of [CQTech](https://cqtech.org) which a collaborative research group on Quantum Technologies. 
 
 <div align="center">
 <img alt="GitHub statistics" src="https://gh-readme-stats-mauve.vercel.app/api?username=mmlouamri&show_icons=true"/>
