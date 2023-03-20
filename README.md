@@ -76,8 +76,10 @@ I want to learn/I am learning:
 
 ## Projects
 
+[![cqt_rng](https://gh-readme-stats-mauve.vercel.app/api/pin/?username=Constantine-Quantum-Tech&repo=cqt_rng)](https://github.com/Constantine-Quantum-Tech/cqt_rng)
 [![TQSim](https://gh-readme-stats-mauve.vercel.app/api/pin/?username=Constantine-Quantum-Tech&repo=tqsim)](https://github.com/Constantine-Quantum-Tech/tqsim)
 [![My Awesome](https://gh-readme-stats-mauve.vercel.app/api/pin/?username=mmlouamri&repo=awesome)](https://github.com/mmlouamri/awesome)
+
 
 ## Connect with me
 
