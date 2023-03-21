@@ -83,8 +83,11 @@ I want to learn/I am learning:
 
 ## Connect with me
 
-<p align="center"><a href="https://www.linkedin.com/in/mm-louamri/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a></p>
-
+<p align="center"><a href="https://www.linkedin.com/in/mm-louamri/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://twitter.com/mmlouamri">
+  <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/>
+  </a>
+</p>
 
 
 
