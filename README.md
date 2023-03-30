@@ -21,7 +21,7 @@ I know a bit about:
 I want to learn/I am learning:
 
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
-
+![Julia](https://img.shields.io/badge/-Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white)
 
 ### Frameworks, libraries, platforms, ...
 
