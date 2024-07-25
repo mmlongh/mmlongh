@@ -1,6 +1,6 @@
 Hello, world! 
 
-I am Mohamed Messaoud Louamri, a Ph.D. student specializing in nonlinear phenomena in dusty plasma physics. Additionally, I am a researcher and algorithm developer at Constantine Quantum Technologies (([CQTech](https://cqtech.org))), focusing on Quantum and AI technologies, particularly their intersection (Quantum Artificial Intelligence). My work involves theoretical exploration and practical business applications, pushing the boundaries of what these advanced technologies achieve.
+I am Mohamed Messaoud Louamri, a Ph.D. student specializing in nonlinear phenomena in dusty plasma physics. Additionally, I am a researcher and algorithm developer at Constantine Quantum Technologies ([CQTech](https://cqtech.org)), focusing on Quantum and AI technologies, particularly their intersection (Quantum Artificial Intelligence). My work involves theoretical exploration and practical business applications, pushing the boundaries of what these advanced technologies achieve.
 
 In my spare time, I build web, software, and hardware projects, and enjoy discussing fundamental physics, mathematics, and philosophy.
 
