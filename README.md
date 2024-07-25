@@ -1,15 +1,16 @@
 Hello, world! 
 
-I am Mohamed Messaoud Louamri, a Ph.D. student specializing in nonlinear phenomena in dusty plasma physics. Additionally, I am a member of Constantine Quantum Technologies ([CQTech](https://cqtech.org)), where I conduct research, develop algorithms, and explore business applications for Quantum and AI technologies, with a particular interest in Quantum Machine Learning and Quantum Optimization. 
+I am Mohamed Messaoud Louamri, a Ph.D. student specializing in nonlinear phenomena in dusty plasma physics. Additionally, I am a researcher and algorithm developer at Constantine Quantum Technologies (([CQTech](https://cqtech.org))), focusing on Quantum and AI technologies, particularly their intersection (Quantum Artificial Intelligence). My work involves theoretical exploration and practical business applications, pushing the boundaries of what these advanced technologies achieve.
 
-In my spare time, I enjoy building web, software, and hardware projects and discussing fundamental physics.
+In my spare time, I build web, software, and hardware projects, and enjoy discussing fundamental physics, mathematics, and philosophy.
 
-On daily basis, I use [Python](https://en.wikipedia.org/wiki/Python_(programming_language)), [Pennylane](https://pennylane.ai/), [Qiskit](https://www.ibm.com/quantum/qiskit). I have some notions (and built things) in many languages like C, C++, Assembly, Typescript, ... but I am not very proficient nor use them frequently. I want to learn [Rust](https://en.wikipedia.org/wiki/Rust_(programming_language)), [Julia](https://en.wikipedia.org/wiki/Julia_(programming_language)), and I am curious about [Mojo](https://www.modular.com/max/mojo).
+On a daily basis, I use Python, Pennylane, and Qiskit. I have some experience with various languages like C, C++, Assembly, and TypeScript, though I don't use them frequently. I am interested in learning Rust and Julia, and I am curious about Mojo.
 
-For my side projects, I use [Laravel](https://laravel.com/) (with Livewire and Tailwindcss), [Arduino](https://www.arduino.cc/), [Raspberry Pi](https://www.raspberrypi.org/), etc.
+For my side projects, I use Laravel (with Livewire and Tailwind CSS), Arduino, and Raspberry Pi.
 
 Some projects that I worked on include:
 * [A Quantum Random Number Generation Package (`cqt_rng`)](https://github.com/Constantine-Quantum-Tech/cqt_rng)
 * [A Topological Quantum Simulator (`tqsim`)](https://github.com/Constantine-Quantum-Tech/tqsim)
 
 You can connect with me on [LinkedIn](https://www.linkedin.com/in/mm-louamri/) or [Twitter](https://twitter.com/mmlouamri).
+
