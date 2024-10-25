@@ -1,16 +1,15 @@
-Hello, world! 
+Hello, world!
 
-I am Mohamed Messaoud Louamri, a Ph.D. student specializing in nonlinear phenomena in dusty plasma physics. Additionally, I am a researcher and algorithm developer at Constantine Quantum Technologies ([CQTech](https://cqtech.org)), focusing on Quantum and AI technologies, particularly their intersection (Quantum Artificial Intelligence). My work involves theoretical exploration and practical business applications, pushing the boundaries of what these advanced technologies achieve.
+I'm Mohamed Messaoud Louamri! I am interested by the intersection of science and computing — how can science inspire advanced computing methods like quantum computing, neuromorphic computing, thermodynamic computing, reservoir computing, and so on, and, conversely, how computers can enable and accelerate scientific discovery.
 
-In my spare time, I build web, software, and hardware projects, and enjoy discussing fundamental physics, mathematics, and philosophy.
+I'm currently a Ph.D. student at the University of Sciences and Technology Houari Boumediene (USTHB) in Algeria, where I use analytical and computational tools to study, simulate, explain, and predict nonlinear waves in dusty plasma physics.
 
-On a daily basis, I use Python, Pennylane, and Qiskit. I have some experience with various languages like C, C++, Assembly, and TypeScript, though I don't use them frequently. I am interested in learning Rust and Julia, and I am curious about Mojo.
+Additionally, I am a researcher at Constantine Quantum Technologies ([CQTech](https://cqtech.org)). I have explored ways to use quantum computers for robust data encryption ([QRNG](https://github.com/Constantine-Quantum-Tech/cqt_rng)), determining the ground states of chemical (BeH2) and condensed matter systems (Kagome Lattices), optimizing industry-related processes (Warehouse optimization), etc.
 
-For my side projects, I use Laravel (with Livewire and Tailwind CSS), Arduino, and Raspberry Pi.
+Currently, I’m investigating how classical machine learning algorithms can be enhanced by introducing quantum (sub)routines.
 
-Some projects that I worked on include:
-* [A Quantum Random Number Generation Package (`cqt_rng`)](https://github.com/Constantine-Quantum-Tech/cqt_rng)
-* [A Topological Quantum Simulator (`tqsim`)](https://github.com/Constantine-Quantum-Tech/tqsim)
+In my spare time, I enjoy working on software and hardware projects, as well as discussing topics in science, fundamental physics, mathematics, and philosophy.
+
 
 You can connect with me on [LinkedIn](https://www.linkedin.com/in/mm-louamri/) or [Twitter](https://twitter.com/mmlouamri).
 
