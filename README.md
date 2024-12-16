@@ -14,10 +14,10 @@ You can connect with me on [LinkedIn](https://www.linkedin.com/in/mm-louamri/) o
 
 
 
-## What I am doing?
+## What am I doing?
 - I am currently learning [FastAPI](https://github.com/mmlouamri/learning-fast-api), SvelteKit,and [Raspberry Pi](https://github.com/mmlouamri/learning-raspberry-pi).
 - I am building [FAST](https://github.com/mmlouamri/FAST) which is a full-stack web-app template based on FastAPI and SvelteKit.
 
-## What I did?
+## What did I do?
 - I built [cqt_rng](https://github.com/Constantine-Quantum-Tech/cqt_rng), an open-source package to generate random numbers using quantum entropy sources.
 - Helped building [tqsim](https://github.com/Constantine-Quantum-Tech/tqsim), an open-source package to simulate anyonic quantum circuits.
