@@ -15,7 +15,7 @@ You can connect with me on [LinkedIn](https://www.linkedin.com/in/mm-louamri/) o
 
 
 ## What am I doing?
-- I am currently learning [FastAPI](https://github.com/mmlouamri/learning-fast-api), SvelteKit,and [Raspberry Pi](https://github.com/mmlouamri/learning-raspberry-pi).
+- I am currently learning [FastAPI](https://github.com/mmlouamri/learning-fast-api), SvelteKit,and [Robotics](https://github.com/mmlouamri/learning-robotics).
 - I am building [FAST](https://github.com/mmlouamri/FAST) which is a full-stack web-app template based on FastAPI and SvelteKit.
 
 ## What did I do?
