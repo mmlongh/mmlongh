@@ -8,15 +8,10 @@ Additionally, I am a researcher at Constantine Quantum Technologies ([CQTech](ht
 
 Currently, I’m investigating how classical machine learning algorithms can be enhanced by introducing quantum (sub)routines.
 
-In my spare time, I enjoy working on software and hardware projects, as well as discussing topics in science, fundamental physics, mathematics, and philosophy.
+In my spare time, I enjoy working on software and hardware projects, as well as discussing topics in science, technology, engineering, mathematics, and philosophy.
 
-You can connect with me on [LinkedIn](https://www.linkedin.com/in/mm-louamri/) or [Twitter](https://twitter.com/mmlouamri).
+You can connect with me on [LinkedIn](https://www.linkedin.com/in/mmlonli/) or [Twitter](https://twitter.com/mmlonx).
 
-
-
-## What am I doing?
-- I am currently learning [FastAPI](https://github.com/mmlouamri/learning-fast-api), SvelteKit,and [Robotics](https://github.com/mmlouamri/learning-robotics).
-- I am building [FAST](https://github.com/mmlouamri/FAST) which is a full-stack web-app template based on FastAPI and SvelteKit.
 
 ## What did I do?
 - I built [cqt_rng](https://github.com/Constantine-Quantum-Tech/cqt_rng), an open-source package to generate random numbers using quantum entropy sources.
